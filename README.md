@@ -1,4 +1,4 @@
-![Developer Banner](file_0000000005b861f9a1fa8ce0021b938e (1).png)
+![Developer Banner](https://raw.githubusercontent.com/CodeProdigie/assets/32722fa2aef4fc7a97698bd7783b3b2b63fe19d1/file_0000000005b861f9a1fa8ce0021b938e%20(1).png)
 
 # 👋 Hi, I’m **Ngeh Brandon**
 
