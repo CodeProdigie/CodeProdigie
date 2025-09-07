@@ -1,4 +1,4 @@
-![Developer Banner](https://user-images.githubusercontent.com/12345678/abcdef123456.png)
+![Developer Banner](file_0000000005b861f9a1fa8ce0021b938e (1).png)
 
 # 👋 Hi, I’m **Ngeh Brandon**
 
