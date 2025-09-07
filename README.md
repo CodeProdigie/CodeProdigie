@@ -1,28 +1,39 @@
-![Gemini_Generated_Image_5fpwqa5fpwqa5fpw](https://github.com/user-attachments/assets/c29b7c09-7efe-432d-862d-cb2a1e386e72)
+![Developer Banner](https://github.com/user-attachments/assets/c29b7c09-7efe-432d-862d-cb2a1e386e72) <!-- Replace with a cleaner professional banner -->
 
-# Hi there, My Name is NGEH BRANDON I'm a Full-Stack Web Developer! 👋
+# 👋 Hi, I’m **Ngeh Brandon**
 
-I'm a passionate and results-driven Web Developer with expertise in building dynamic and responsive web applications. I specialize in the **MERN stack** (MongoDB, Express.js, React, Node.js) and have strong proficiency in front-end and back-end technologies including **HTML5**, **CSS3**, **JavaScript (ES6+)**, **PHP**, and **MySQL**.
+💻 Full-Stack Web & Mobile Developer | 🚀 MERN & React Native (Expo) Enthusiast  
 
----
-## 🚀 My Tech Stack
-
-* **Frontend:** HTML, CSS, JavaScript, React
-* **Backend:** Node.js, Express.js, PHP
-* **Databases:** MongoDB, MySQL
-* **Version Control:** Git & GitHub
-* **Other Tools:** REST APIs, Responsive Design, Agile Methodologies
+I’m an intermediate developer passionate about building **scalable web applications** and **beautiful mobile experiences**.  
+With hands-on experience across both **frontend and backend**, I enjoy transforming ideas into functional, impactful solutions.  
 
 ---
-## 🌱 What I'm Up To
 
-* 🔭 I’m currently working on sharpening my skills and exploring new technologies in the web development landscape.
-* 👯 I’m looking to collaborate on exciting open-source projects or contribute to innovative web solutions.
-* 💬 Ask me about anything related to MERN stack development, front-end design, or back-end architecture!
+## 🚀 Tech Stack & Skills
+
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Responsive Design  
+- **Mobile:** React Native with Expo  
+- **Backend:** Node.js, Express.js, PHP  
+- **Databases:** MongoDB, MySQL  
+- **Version Control:** Git & GitHub  
+- **Other Tools & Practices:** REST APIs, Agile Methodologies, Problem Solving  
 
 ---
-## 📫 Get In Touch
 
-* **Email:** [codeprodigie@gmail.com]
+## 🌱 Current Focus
 
-Thanks for stopping by! Let's build something amazing together. ✨
+- 🔭 Expanding expertise in **React Native (Expo)** for cross-platform mobile apps  
+- ⚡ Building polished **UI/UX-driven applications** with modern frameworks  
+- 👯 Open to collaborating on **open-source projects** and impactful startups  
+
+---
+
+## 📫 Connect with Me
+
+- ✉️ **Email:** [codeprodigie@gmail.com](mailto:codeprodigie@gmail.com)  
+- 💼 **LinkedIn:** *(Add your LinkedIn link here)*  
+- 🌍 **Portfolio/Website:** *(Optional – add your portfolio if you have one)*  
+
+---
+
+✨ *Always learning. Always building. Let’s create something amazing together!*
