@@ -1,13 +1,5 @@
 ![Developer Banner](https://raw.githubusercontent.com/CodeProdigie/assets/32722fa2aef4fc7a97698bd7783b3b2b63fe19d1/file_0000000005b861f9a1fa8ce0021b938e%20(1).png)
 
-# 👋 Hi, I’m **Ngeh Brandon**
-
-💻 Full-Stack Web & Mobile Developer | 🚀 MERN & React Native (Expo) Enthusiast  
-
-I’m an intermediate developer passionate about building **scalable web applications** and **beautiful mobile experiences**.  
-With hands-on experience across both **frontend and backend**, I enjoy transforming ideas into functional, impactful solutions.  
-
----
 
 ## 🚀 Tech Stack & Skills
 
