@@ -1,4 +1,4 @@
-![Developer Banner](https://github.com/user-attachments/assets/c29b7c09-7efe-432d-862d-cb2a1e386e72) <!-- Replace with a cleaner professional banner -->
+![Developer Banner](https://github.com/user-attachments/assets/file_0000000005b861f9a1fa8ce0021b938e)
 
 # 👋 Hi, I’m **Ngeh Brandon**
 
